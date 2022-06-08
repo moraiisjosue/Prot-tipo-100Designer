@@ -1,1 +1,1 @@
-"# Prot-tipo-100Designer" 
+Protótipo web que propícia a intermediação na contratação de freelancer que prestam serviços na área de Design Gráfico.        A construção do projeto consistiu na implementação do diagrama de classe, diagrama comportamental, utilização da linguagem de programação Java com JSP e Servlets, formulado com o padrão de projeto MVC. Para o armazenamento dos dados foi utilizado o SGBD MySQL
